@@ -9,7 +9,7 @@ commonAnnotations:
   app: mykustom-annontations
 
 namePrefix:
-  -kustom
+  kustom-
 
 nameSuffix:
   -v1
